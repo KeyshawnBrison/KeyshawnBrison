@@ -1,6 +1,6 @@
-Business Analyst | Marketing Analyst | Data-Driven Decision Maker
+## Business Analyst | Marketing Analyst | Data-Driven Decision Maker
 
-  I am a Business & Marketing Analytics professional with a background in Marketing and hands-on experience in SQL, Power BI, and data-driven business strategy. I specialize in transforming raw data into actionable insights that drive revenue growth, customer rention, and operation efficiency.
+ ## I am a Business & Marketing Analytics professional with a background in Marketing and hands-on experience in SQL, Power BI, and data-driven business strategy. I specialize in transforming raw data into actionable insights that drive revenue growth, customer rention, and operation efficiency.
   
   ## Core Competencies
   - SQL (Joins, CTEs, Aggregations, Window Functions)
