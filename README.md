@@ -27,10 +27,9 @@ Business Analyst | Marketing Analyst | Data-Driven Decision Maker
   Marketing Associate with experience in business operations and account management. Strong understanding of how analytics supports strategic marketing decisions.
 
 ### Seeking opportunities in:
-Business Analyst
-Marketing Analyst
-Data Analyst (Business-Focused)
+- Business Analyst
+- Marketing Analyst
+- Data Analyst (Business-Focused)
 
-### Connect With Me
-LinkedIn: 
+### Connect With Me 
 Email: brisonkeyshawn@yahoo.com
